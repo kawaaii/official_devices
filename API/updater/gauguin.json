@@ -1,23 +1,13 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_gauguin-14.0-20241017-1357.zip",
-    "datetime": 1729173345,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2320328519,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/gauguin/PixelOS_gauguin-14.0-20241017-1357.zip",
-    "filehash": "13a2dcbe11d1f604ebd61b43a0ca7bf6",
-    "id": "13a2dcbe11d1f604ebd61b43a0ca7bf6",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "kawaaii",
-            "name": "Hridaya"
-        }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-12-1-official-pixelos-aosp-stable-12-06-2022.4456563/"
+  "response": [
+    {
+      "datetime": 1230764400,
+      "filename": "ota-package.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "nightly",
+      "size": 314572800,
+      "url": "https://example.com/ota-package.zip",
+      "version": "fifteen"
+    }
+  ]
 }
