@@ -1,23 +1,12 @@
 {
-    "error": false,
-    "version": "fourteen",
-    "filename": "PixelOS_lisa-14.0-20241014-1651.zip",
-    "datetime": 1728924603,
-    "ota_datetime": "TIMESTAMP_PLACEHOLDER",
-    "size": 2182820063,
-    "url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip",
-    "github_releases_url": "https://sourceforge.net/projects/pixelos-releases/files/fourteen/lisa/PixelOS_lisa-14.0-20241014-1651.zip",
-    "filehash": "60f5a0164c0d5f9170e13bf27ff3133a",
-    "id": "60f5a0164c0d5f9170e13bf27ff3133a",
-    "maintainers": [
-        {
-            "main_maintainer": false,
-            "github_username": "whyredfire",
-            "name": "Karan Parashar"
+  "response": [
+       {
+            "datetime": 1728924603,
+            "filename": "PixelOS_gauguin-15.0-20241101-2020.zip",
+            "id": "4a9e8ff94815ccea88e775390ff11ba11bf66a6da4b7b7f78c03bc588261072c",
+            "size": 1377565126,
+            "url": "https://mirrorbits.lineageos.org/full/gauguin/20241030/lineage-20.0-20241030-nightly-gauguin-signed.zip",
+            "version": "fifteen"
         }
-    ],
-    "donate_url": "https://blog.pixelos.net/docs/donate",
-    "website_url": "https://pixelos.net/",
-    "news_url": "https://blog.pixelos.net/",
-    "forum_url": "https://xdaforums.com/t/rom-14-official-pixelos-aosp-beta-29-11-2023.4392297/"
+  ]
 }
