@@ -1,4 +1,3 @@
-Switch to QCOM performance configurations
-Switch to memtrack AIDL service
-NT36672c improvements
-Remove software omx codec references
+\- Item 1  
+\- Item 2  
+\- Item 3
