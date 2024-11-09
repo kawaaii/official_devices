@@ -8,4 +8,4 @@
 \- Set FP HAL thread to high CFS priority and use SCHED_RR for low latency.  
 \- Kernel state at `r16b3` (changelog at: [here](https://github.com/cyberknight777/op7_json/blob/master/changelog_r.md)).  
 
-\- More info can be found in www.pixelos.net.
+\ More info can be found in https://www.pixelos.net.
