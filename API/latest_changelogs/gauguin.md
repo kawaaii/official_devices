@@ -1,4 +1,7 @@
-\- Commonize auto brightness configs
+\- Item 1  
+\- Item 2  
+\- Item 3
+\- Item 4
 \- Ignore CNE in location indicator
 \- Optimized auto brightness adjustment.
 \- Import night display color temp calibration from coral.
