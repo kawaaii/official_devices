@@ -1,13 +1,9 @@
-\- Item 1  
-\- Item 2  
-\- Item 3
-\- Item 4  
-\- Ignore CNE in location indicator  
+\- Ignore CNE in location indicator.  
 \- Optimized auto brightness adjustment.  
 \- Import night display color temp calibration from coral.  
-\- Tweak msm_irqbalance.  
+\- Tweak **msm_irqbalance**.  
 \- Uprev to multi\-hal sensor 2.1.  
 \- Configure vbswap instead of zram. (you can only stick with dragonheart).  
 \- Set is_inline to 1 to kill UserLand Worker in inline builds.  
 \- Set FP HAL thread to high CFS priority and use SCHED_RR for low latency.  
-\- Kernel state at r16b3 (changelog at: here (https://github.com/cyberknight777/op7_json/blob/master/changelog_r.md)).  
+\- Kernel state at `r16b3` (changelog at: here (https://github.com/cyberknight777/op7_json/blob/master/changelog_r.md)).  
