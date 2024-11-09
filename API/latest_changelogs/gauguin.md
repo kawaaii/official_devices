@@ -1,5 +1,5 @@
-\- Commonize auto brightness configs.
-\- Ignore CNE in location indicator.
+\- Commonize auto brightness configs
+\- Ignore CNE in location indicator
 \- Optimized auto brightness adjustment.
 \- Import night display color temp calibration from coral.
 \- Tweak msm_irqbalance.
