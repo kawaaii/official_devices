@@ -1,3 +1,7 @@
+TESTING PURPOSE  
+
+
+
 \- Ignore CNE in location indicator.  
 \- Optimized auto brightness adjustment.  
 \- Import night display color temp calibration from coral.  
