@@ -1,7 +1,5 @@
 TESTING PURPOSE  
 
-
-
 \- Ignore CNE in location indicator.  
 \- Optimized auto brightness adjustment.  
 \- Import night display color temp calibration from coral.  
@@ -13,3 +11,9 @@ TESTING PURPOSE
 \- Kernel state at `r16b3` (changelog at: [here](https://github.com/cyberknight777/op7_json/blob/master/changelog_r.md)).  
 
 More info can be found in [https://www.pixelos.net](https://www.pixelos.net).
+
+> [!NOTE]
+> Don't forget to change your port number
+>
+> [!WARNING]
+> WARNINGG LETS GO
