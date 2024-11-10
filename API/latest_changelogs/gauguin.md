@@ -14,6 +14,6 @@ More info can be found in [https://www.pixelos.net](https://www.pixelos.net).
 
 > [!NOTE]
 > Don't forget to change your port number
->
+
 > [!WARNING]
 > WARNINGG LETS GO
