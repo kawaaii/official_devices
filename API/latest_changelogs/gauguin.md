@@ -1,7 +1,4 @@
-TESTING PURPOSE  
+Improve the stability of your device (gauguin).  
 
-\- Testing new thing	
-\- Testing OTA	
-\- Hello 
-
-More info can be found in [https://www.pixelos.net](https://www.pixelos.net).
+This update fixes critical bugs and improves the performance and security of your device.  
+Learn more at https://www.pixelos.net.
