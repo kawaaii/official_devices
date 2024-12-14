@@ -1,4 +1,4 @@
-- SafetyNet passes now.
+\- SafetyNet passes now.
 - Fix permissions for PowerOffAlarm.
 - Fix camera interface on ViLTE calls.
 - Inherit launch with vendor ramdisk for vAB.
