@@ -1,12 +1,8 @@
 {
-  "response": [
-       {
-            "datetime": 1723657696,
-            "filename": "PixelOS_gauguin-15.0-20241111-1317.zip",
-            "id": "85e3ec807abd65e762d8ed0cdc58bf5a9d5cfac62b26a47b9eb67d06729440d5",
-            "size": 2351258293,
-            "url": "https://my-index-azure.vercel.app/api/raw/?path=/pos-ota/PixelOS_gauguin-15.0-20241111-1317.zip",
-            "version": "fifteen"
-        }
-  ]
+  "datetime": 1723657696,
+  "filename": "PixelOS_gauguin-15.0-20241111-1317.zip",
+  "id": "85e3ec807abd65e762d8ed0cdc58bf5a9d5cfac62b26a47b9eb67d06729440d5",
+  "size": 2351258293,
+  "url": "https://my-index-azure.vercel.app/api/raw/?path=/pos-ota/PixelOS_gauguin-15.0-20241111-1317.zip",
+  "version": "fifteen"
 }
