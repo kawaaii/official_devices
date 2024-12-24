@@ -1,5 +1,3 @@
-{
-    "response": [
         {
             "datetime": "1853657696",
             "filename": "PixelOS_gauguin-15.0-20241212-130.zip",
@@ -8,5 +6,3 @@
             "url": "https://sourceforge.net/projects/pixelos-releases/files/fifteen/gauguin/PixelOS_gauguin-15.0-20241212-1340.zip",
             "version": "15"
         }
-    ]
-}
